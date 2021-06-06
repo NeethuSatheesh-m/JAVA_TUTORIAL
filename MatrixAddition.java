@@ -5,7 +5,7 @@ public class MatrixAddition {
 
     public static void main(String[] args) {
         
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int r1,r2,c1,c2;
         System.out.println("== Matrix Addition ==");
         System.out.println();
